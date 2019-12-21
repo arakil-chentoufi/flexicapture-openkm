@@ -37,7 +37,7 @@ import java.io.IOException;
 import java.io.StringReader;
 
 /**
- * @author pavila
+ * @author arakil
  *
  */
 public class AnalyzerDemo {
